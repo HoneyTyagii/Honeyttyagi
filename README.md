@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=honeyttyagi&label=Profile%20views&color=0e75b6&style=flat" alt="honeyttyagi" /> </p>
 
-- 👨‍💻 Portfolio [https://honeyttyagi.github.io/Portfolio/](https://honeyttyagi.github.io/Portfolio/)
 
 - 📫 Reach me **honeyt290@gmail.com**
 
